@@ -1,4 +1,5 @@
 ### Hi there 👋
+# I'm Birat Dhar, a student, learner and a passionate web developer.
 
 <!--
 **Birat1234/Birat1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
