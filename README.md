@@ -12,4 +12,4 @@
 
 #### Languages and tools:
 ![c-icon](https://user-images.githubusercontent.com/26957756/120598603-126f7480-c464-11eb-85c2-2bdc271cefc8.png)
-<a href="url"><img src="http://url.to/image.png" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://www.kindpng.com/picc/m/355-3559027_c-programming-language-logo-clipart-png-download-c.png" align="left" height="48" width="48" ></a>
