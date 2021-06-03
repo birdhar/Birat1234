@@ -11,4 +11,4 @@
 -->
 
 #### Languages and tools:
-<img src="https://www.kindpng.com/picc/m/355-3559027_c-programming-language-logo-clipart-png-download-c.png" align="left" height="48" width="48" >
+<img src="https://www.kindpng.com/picc/m/355-3559027_c-programming-language-logo-clipart-png-download-c.png" align="left" height="48" width="48" ><img src="https://www.kindpng.com/picc/m/355-3559027_c-programming-language-logo-clipart-png-download-c.png" align="left" height="48" width="48" ><img src="https://www.kindpng.com/picc/m/355-3559027_c-programming-language-logo-clipart-png-download-c.png" align="left" height="48" width="48" ><img src="https://www.kindpng.com/picc/m/355-3559027_c-programming-language-logo-clipart-png-download-c.png" align="left" height="48" width="48" >
