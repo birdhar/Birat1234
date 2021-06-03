@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning fullstack development.
 - 📫 How to reach me: <a>birat.dhar.89@gmail.com</a>
 - 😄 Resume: <a>https://drive.google.com/file/d/1qVTY9YlE54BhkdKfkEQRmIZn0X-XlvVH/view</a>...
-- ⚡ Fun fact: ...
 -->
 
 #### Languages and tools:
