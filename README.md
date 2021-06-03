@@ -9,3 +9,6 @@
 - 😄 Resume: <a>https://drive.google.com/file/d/1qVTY9YlE54BhkdKfkEQRmIZn0X-XlvVH/view</a>...
 - ⚡ Fun fact: ...
 -->
+
+#### Languages and tools:
+![c-icon](https://user-images.githubusercontent.com/26957756/120598603-126f7480-c464-11eb-85c2-2bdc271cefc8.png)
